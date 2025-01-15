@@ -8,7 +8,8 @@ A lightweight and interactive web application to convert written text into speec
 - **Text Input:** Enter or paste text into the input box.  
 - **Voice Options:** Select from available voices (based on browser/system support).  
 - **Adjustable Settings:**  
-  - **Pitch Control:** Adjust the tone of the speech.   
+  - **Pitch Control:** Adjust the tone of the speech.
+  - **Language:** Speack in multiple languages
 - **Browser Compatibility:** Works on modern browsers (Chrome, Firefox, Edge, Safari).  
 - **Offline Functionality:** Utilizes the browser's built-in **SpeechSynthesis** API, no external resources needed.  
 
